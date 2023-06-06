@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JCG Document</title>
+        <link rel="stylesheet" href="public/style.css">
+    </head>
+    <body>
+        <div id="container">
+        <!--<label for="login">LoginX:</label>
+<input type="text" id="login" class="my-input-class" value="" placeholder="your username">
+
+--><!--<label for="password">Password:</label>
+<input type="password" id="password" class="my-input-class" value="" placeholder="your password">
+
+--><!--<label for="textarea1">Password:</label>
+<textarea id="textarea1" class="my-input-class">test</textarea>
+
+--><!--<button id="submit" class="my-button-class">Send</button>
+
+-->
+        </div>
+        <script src="public/script.js"></script>
+    </body>
+    </html>

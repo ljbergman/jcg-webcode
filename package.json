@@ -1,0 +1,31 @@
+{
+  "name": "jcg-webcode",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Web interface for jcg-code-generator using Express",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "jcg-code-generator": "~1.0.0",
+    "morgan": "~1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljbergman/webCode.git"
+  },
+  "keywords": [
+    "code-generator"
+  ],
+  "author": "L.J. Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljbergman/webCode/issues"
+  },
+  "homepage": "https://github.com/ljbergman/webCode#readme"
+}
